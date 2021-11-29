@@ -16,7 +16,7 @@ def main():
 
     """
     GaussianNB using sklearn function.
-    Iris type dataset was used to for the Mega Donor Model
+    Iris type dataset was used to for the example
     If reusing this code, you will need to change the algorithm.
     """
 
